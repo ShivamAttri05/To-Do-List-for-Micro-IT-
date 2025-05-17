@@ -7,7 +7,6 @@
 A sleek and intuitive Todo List application featuring drag-and-drop functionality, real-time updates, and persistent local storage. Organize your tasks effortlessly into **To Do, In Progress, and Completed** categories.
 
 ---
-**Live Demo:** [Demo](https://shivamattri842.github.io/ToDo-List/)
 
 ## ✨ Features
 
